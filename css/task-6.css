@@ -1,0 +1,13 @@
+.boxes-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 44px;
+    margin-top: 16px;
+    width: 486px;
+    height: 134px;
+    background: #f6f6fe;
+    padding: 32px;
+    border-radius: 8px;
+}

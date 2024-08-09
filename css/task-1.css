@@ -1,0 +1,35 @@
+ul,
+li {
+    list-style-type: none;
+}
+
+.categor-item {
+    padding: 20px;
+    margin-bottom: 24px;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 392px;
+}
+
+.categor-items {
+    padding: 0;
+    margin: 0;
+}
+
+.categor-item-element {
+    border: 1px solid #808080;
+    border-radius: 4px;
+    transition: border 0.3s ease;
+    width: 360px;
+    height: 40px;
+    margin-bottom: 8px;
+    padding: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}

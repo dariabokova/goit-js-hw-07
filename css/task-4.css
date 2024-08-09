@@ -1,0 +1,26 @@
+.form-input:focus {
+    border: 1px solid #808080;
+}
+
+.form-btn {
+    padding: 10px;
+    background: #4e75ff;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 8px;
+    width: 86px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-btn:hover {
+    background-color: #6c8cff;
+}
